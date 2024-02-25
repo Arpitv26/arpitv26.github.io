@@ -4,7 +4,7 @@ Hello Everyone, This is my online portfolio. This is one of first big personal p
 
 Form this project I learned:
 - Basic HTML, CSS, JAVA.
-- - Learned how github works.
+- Learned how github works.
 - Learned how VsCode works.
 - How to debug problems and search for solutions in an effective manner.
 - Importance and diffeerence between Front-end and Back-end development.
