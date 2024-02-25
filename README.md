@@ -1,4 +1,6 @@
-# Hello Everyone, This is my online portfolio. This is one of first big personal projects that I worked on in which I showcase my projects and abilities as well as what I have learned in my journey to become a software engineer. 
+# Online Portfolio
+
+Hello Everyone, This is my online portfolio. This is one of first big personal projects that I worked on in which I showcase my projects and abilities as well as what I have learned in my journey to become a software engineer. 
 
 Form this project I learned:
 - Basic HTML, CSS, JAVA.
